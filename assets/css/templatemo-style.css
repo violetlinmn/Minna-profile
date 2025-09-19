@@ -576,7 +576,7 @@ figure.snip1322 span{
     font-size: 14px;
     font-style: italic;
     display: block;
-    color: #232323;
+    color: #bbbbbb;
     margin-left: 15px;
     margin-right: 15px;
     text-align: center;
@@ -774,4 +774,5 @@ section.contact-me {
     .isotope-toolbar {
         margin-bottom: 20px;
     }
+
 }
