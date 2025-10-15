@@ -323,7 +323,11 @@ button:hover {
     line-height: 150%;
 }
 
-.left-image img,
+.left-image img {
+    border-radius: 5px;
+    height: 5%;
+}
+
 .right-image img {
     border-radius: 5px;
 }
@@ -818,4 +822,5 @@ section.contact-me {
         font-size: large;
     }
     
+
 }
